@@ -22,19 +22,4 @@ $ pip install -r requirements.txt
 Nonlinear Buckling Behavior of a Deep Learning-Driven Shape Memory Polymer Composite Lens Tube with a Gradient Cross-Section
 
 
-### CGLT
 
-```
---AnalysisABAQUSscripts
---Resultsavescripts
---data_generator
---model
---training
-```
-
-### CTLT
-
-```
---ctlt_generate
---ctlt_resultsavescripts
-```
